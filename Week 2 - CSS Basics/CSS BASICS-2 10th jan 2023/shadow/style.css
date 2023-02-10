@@ -1,0 +1,11 @@
+h1{
+    text-shadow: 3px 3px 3px green;
+    text-shadow:3px 3px 3px green, 3px 1px 1px green;
+}
+
+div{
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px green;
+}
