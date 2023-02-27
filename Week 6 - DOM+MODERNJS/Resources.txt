@@ -1,0 +1,6 @@
+DOM, BOM, Window Object Mini project
+Async-Await, Event Loop, Event Listners
+Classes and Exports, Getters and Setters, Promises, Fetch
+
+There are three project -----1. Counter App (Increment and Decrement) project.
+WE are creating a project with the help of- html, css, javascript, tailwind. 
