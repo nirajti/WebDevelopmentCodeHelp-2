@@ -1,0 +1,74 @@
+Welcome to @dot-dev Family
+   Web Development Master Course @dot Batch
+ Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN)
+ with this project- focused course.
+ 
+ What you will learn-----
+ 
+ Course Content--
+HTML Basics-- Setting up tools, intrduction to web Development, Basics of HTML
+             - Understanding and Handling forms and Input
+             - Selectors and Introducation to Styling, Different type of CSS
+             
+Css Basics - Selectors, Box Model Styling Fonts and Images
+           -  Learn About Height-Width
+           
+Flex Box and Grid - CSS Flexbox, Responsiveness, Grid Container,
+                  - Minor Project Bavsed on Html and Css
+                  
+Animation and responsiveness - Animation and keyframes, Transition, Shorthand Animation
+                            - Media Query, Responsive Design of text and Images
+                             - Responsive Mini Project
+                             
+Tailwind Project - A Mini Project with Tailwind
+
+Javascript Basics - Introducation to JS, Variable, Datatypes, Operator Precidence
+                 - Control Statements if elas, loops, Swich Case, Array and String
+                 - Scope Chaining, This keyword, Function, callback, Arrow Function
+                 - Fill, Filter, Map, Slice, Splice
+                 
+Dom Manipulation and modern JS - DOM, BOM, Window object, Mini project
+                               - Async-Await,Event Loop, Event Listners
+                               - Classes and Exports, Getter and Setters, Promises, fetch
+                               - Classes and Exports, Getters and Setters, Promise, Ftch
+     JS mini project - Mini project with HTML, CSS2 and JS
+     JS Mini project-11 - Mini project with HTML, CSS2 and JS
+     
+React Basics - Installing Tools, Setting up first React App.
+             - Components, Props, useState, mini project
+             - Learn to use External packages and External APIs
+             
+React Intermediate - Handing Forms in React
+                   - Understanding React Router2 v6 with a projet
+                   - React Router v6 project Continued
+                   
+React Advance - Additional React Hooks, Custom Hook
+              - Context API, Reducers, State Management
+              - Redux ToolKit
+              
+Understandling Express and Mongoose - Setting up tools for Backned, Setting up a Server, Understand request and response
+                                    - Understanding Mongoose and Interacting with MongoDB
+                                    - A small Backend Project
+                                    
+Desiging Process flow and Authentication - Authentication System Flow2 Design and Development
+                                         - Routes in Depth
+                                         - Understanding Middleware and protecting Routes
+                                         - A Mini project
+                                         
+Form Handling in Depth Frontend + Backend - Understating forms in Details and Cloudinary Setup
+                                          - Connecting to Cloudinary and File Upload
+                                          - Multiple File Upload Feature2 and Mini project
+                                          
+Mega Project Begins(Design + Backend) - Desiging End-to-End Flow of Application and Developing the Backend
+                                      - Using postman to test APIs
+                                      
+ Mega Project(Backend + Fronted) - Desiging and Developing the UI of fronted
+ 
+ Mega Project (Fronted + Integration) - Finshig with UI Development and Starting with API Integration.
+ 
+ Mega Project Deplotment - Final End-to-End Testing and Checks with bugs Fixes
+                         - Deploying Backend
+                         - Deploying Fronted
+                         
+                         
+  
