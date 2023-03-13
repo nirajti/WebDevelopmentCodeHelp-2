@@ -1,0 +1,26 @@
+Installing Tailwind Css - steps
+
+1 - Install Node
+2 - Run commands - 1. npm install -D tailwind postcss outoprefixedvite
+               2. npx tailwind init -p
+  3 - Install tailwind css intellsiense extension
+  4 - Add * in content
+  5 - Add scripts in package json
+  6 - create main.css and insert and link
+            1 - @tailwind base;
+            2 - @tailwind components;
+            3 - @tailwind utilities;
+            
+ 7 - Add--- "script": {
+               "start": vite"
+               } ;
+ 8 - <link rel = "stylesheet" href = "main.css">
+ 
+ Run - 1 - to run npm run start
+     Press r to restart the server
+     press u to show server url
+     press u to open in brower
+     press q to quit
+     
+     all tailwind installation process....
+  
