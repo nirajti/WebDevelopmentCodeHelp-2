@@ -1,7 +1,7 @@
 Installing Tailwind Css - steps
 
 1 - Install Node
-2 - Run commands - 1. npm install -D tailwind postcss autoprefixedvite
+2 - Run commands - 1. npm install -D tailwind postcss autoprefixer vite
                2. npx tailwind init -p
   3 - Install tailwind css intellsiense extension
   4 - Add * in content
